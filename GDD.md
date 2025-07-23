@@ -3,7 +3,7 @@
 ## 1. Game Overview
 - **Title:** Go Deep
 - **Elevator Pitch:** A 2D survival mobile game focused on exploration and surviving in harsh environments.
-- **Vision / Real Impact Goal:** [You can write this later, e.g., "Encourage resilience and problem-solving."]
+- **Vision / Real Impact Goal:** Go Deep challenges players to understand and strengthen their mental resilience, helping them develop survival mindset skills useful in real life.
 - **Target Audience & Platform:** Android users
 - **Unique Selling Point (USP):** Open-source survival experience for mobile.
 
