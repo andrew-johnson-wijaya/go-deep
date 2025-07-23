@@ -8,8 +8,8 @@ The goal is to create an open-source survival experience for Android where playe
 🚧 **Work in Progress – Early Development**
 
 ## Features (Planned)
-- Survival mechanics optimized for mobile
-- [You can add more as you progress]
+- **Survival mechanics optimized for mobile** – resource gathering, crafting, and exploration designed for touch controls.
+- **Mental state implementation** – players must manage psychological factors (stress, focus, motivation) to survive longer, reflecting real-life resilience challenges.
 
 ## Roadmap
 See [GDD.md](GDD.md) for detailed plans.
